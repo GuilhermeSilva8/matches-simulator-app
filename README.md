@@ -4,3 +4,5 @@ App Android Nativo de simulação de partidas de futebol, desenvolvido durante a
 
 1. Desenvolvimento Mobile Nativo Para Android (Overview sobre as funcionalidades do Android Studio, criação do projeto e execução do "Hello World!")
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/GuilhermeSilva8/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+2. Componentes, Layouts e UI/UX Em Apps Android
+   - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/GuilhermeSilva8/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
