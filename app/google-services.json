@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002590808134",
+    "project_id": "simulator-app-sportheca",
+    "storage_bucket": "simulator-app-sportheca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002590808134:android:0f5e2b9531b1cbf26dc247",
+        "android_client_info": {
+          "package_name": "com.example.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002590808134-hl2r9nvbf699jr79mssueu8dclgrmm4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyQXfQXHFJJ3W3Cnae_Y8_7wBAJobznQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002590808134-hl2r9nvbf699jr79mssueu8dclgrmm4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
